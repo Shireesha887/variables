@@ -1,0 +1,12 @@
+age=30
+price=19.9
+name="abc"
+is_active="true"
+fruits=["apple","guava"]
+marks_and_grade={1:"50",2:"70"}
+print(age)
+print(price)
+print(name)
+print(is_active)
+print(fruits)
+print(marks_and_grade)
